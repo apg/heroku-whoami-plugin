@@ -1,0 +1,15 @@
+{
+  "name": "heroku-whoami",
+  "version": "1.0.0",
+  "description": "answers the question \"who am I?\" on heroku.",
+  "main": "index.js",
+  "author": "Andrew Gwozdziewycz @apgwoz",
+  "repository": "apg/heroku-whoami-plugin",
+  "bugs": {
+    "url": "https://github.com/apg/heroku-whoami-plugin/issues"
+  },
+  "keywords": [
+    "heroku-plugin"
+  ],
+  "license": "MIT"
+}
